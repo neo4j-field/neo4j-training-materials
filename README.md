@@ -1,6 +1,6 @@
 # Neo4j Training Materials
 
-This repository contains the slide decks used in our Neo4j foundations workshop. The sessions walk through the core ideas behind property graphs, Cypher, data modeling, importing data, and the Graph Data Science library, in the order they are typically delivered.
+This repository contains the slide decks used in our Neo4j foundations workshop. The sessions walk through the core ideas behind property graphs, what Neo4j is as a product, Cypher, data modeling, importing data, and the Graph Data Science library, in the order they are typically delivered.
 
 The material is designed for engineers, data professionals, and architects who are new to graph databases or who want a structured refresh before applying Neo4j on a real project.
 
@@ -21,6 +21,7 @@ The sessions are numbered in the order they are presented. Each deck is self-con
 | ------- | ----- | ---- |
 | S1 | Labeled Property Graph model and an introduction to Cypher | [S1 LPG and Cypher.pdf](S1%20LPG%20and%20Cypher.pdf) |
 | S2 | What is a graph, and where graphs fit in the data landscape | [S2 What is a graph.pdf](S2%20What%20is%20a%20graph.pdf) |
+| S3 | What is Neo4j: the product, architecture, and ecosystem | [S3 What is Neo4j.pdf](S3%20What%20is%20Neo4j.pdf) |
 | S4 | Common graph use cases across industries | [S4 Common Graph Use Cases.pdf](S4%20Common%20Graph%20Use%20Cases.pdf) |
 | S5 | Graph data modeling, part 1: nodes, relationships, and properties | [S5 Modeling Part 1.pdf](S5%20Modeling%20Part%201.pdf) |
 | S6 | Graph data modeling, part 2: refactoring and modeling for queries | [S6 Modeling Part 2.pdf](S6%20Modeling%20Part%202.pdf) |
@@ -28,8 +29,6 @@ The sessions are numbered in the order they are presented. Each deck is self-con
 | S8 | Indexes and constraints in Cypher | [S8 Cypher Indexes and Constraints.pdf](S8%20Cypher%20Indexes%20and%20Constraints.pdf) |
 | S9 | Graph Data Science, part 1: projections and core algorithms | [S9 GDS Part 1.pdf](S9%20GDS%20Part%201.pdf) |
 | S10 | Graph Data Science, part 2: applied workflows | [S10 GDS Part 2.pdf](S10%20GDS%20Part%202.pdf) |
-
-Note: S3 is intentionally not included in this initial drop. It will be added in a follow-up commit once the deck is finalized.
 
 ## How to use this material
 
